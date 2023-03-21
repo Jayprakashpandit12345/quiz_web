@@ -1,3 +1,6 @@
+import './Mainbody.css';
+
+
 function Mainbody(){
     return(
         <div className="mb">
